@@ -1,5 +1,9 @@
 .section-course {
+    border-top: 2px solid yellow;
+    /* margin-top: 250px; */
+
     width: 100%;
+    /* background-color: red */
     background-color: hsl(0, 0%, 25%);
     ;
     color: white;
@@ -12,11 +16,11 @@
         text-align: center;
         display: flex;
         flex-direction: column;
-        justify-content: center;
+        /* justify-content: center;
         align-items: center;
         gap: 2rem;
-        text-align: center;
-        max-height: 100%;
+        text-align: center; */
+        /* max-height: 100%; */
 
         .course-header {
             .corsees-heading {

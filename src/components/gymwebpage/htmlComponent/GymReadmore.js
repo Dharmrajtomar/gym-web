@@ -1,11 +1,11 @@
-import React from "react";
+// import React from "react";
 
 
-import "../cssComponent/GymReadmore.css";
-const GymReadmore = ({ setreadmore }) => {
-  return (
-    <>
-      <div className="readmore-about">
+// import "../cssComponent/GymReadmore.css";
+// const GymReadmore = ({ setreadmore }) => {
+//   return (
+//     <>
+//       <div className="readmore-about">
         {/* <header className="header-contaner-g">
           <div className="logo">
             <span>M</span>
@@ -56,10 +56,10 @@ const GymReadmore = ({ setreadmore }) => {
               <MdClose /> close{" "}
             </span>
           </div>
-        </div> */}
-      </div>
-    </>
-  );
-};
+//         </div> */}
+//       </div>
+//     </>
+//   );
+// };
 
-export default GymReadmore;
+// export default GymReadmore;

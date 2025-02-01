@@ -7,15 +7,19 @@
 .products .box-container .box .icons a {
     height: 5rem;
     width: 5rem;
+    
     line-height: 5rem;
     font-size: 2rem;
-    border: 0.2rem solid #ffc107;
-    color: #fff;
-    margin: 0.3rem;
+    padding: 5px;
+    border-radius: 50%;
+    border: 0.2rem solid #fff;
+    color: #ffc107;
+    margin: 0.6rem;
 }
 
 .products .box-container .box .icons a:hover {
     background: #ffc107;
+    color: #fff;
 }
 
 .products .box-container .box .image img {

@@ -16,6 +16,9 @@
     border: 0.2rem solid #ffc107;
     margin: 0.3rem;
     border-radius: 50%;
+    padding: 10px;
+    text-align: center;
+    
 }
 
 .footer .share a:hover {
