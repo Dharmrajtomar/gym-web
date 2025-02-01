@@ -63,7 +63,7 @@ const SNavbar = () => {
         </div>
 
         <div className="cart-items-container" ref={cartRef}>
-          {cart.map((item, index) => (
+          {/* {cart.map((item, index) => (
             <div className="cart-item" key={index}>
               <span className="fas fa-times"></span>
               <img src={item.img} alt="" />
@@ -72,10 +72,10 @@ const SNavbar = () => {
                 <div className="price">$15.99</div>
               </div>
             </div>
-          ))}
-          <a className="btn" href="">
+          ))} */}
+          {/* <a className="btn" href="">
             Checkout Now
-          </a>
+          </a> */}
         </div>
       </header>
     </>
